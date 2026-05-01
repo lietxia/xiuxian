@@ -1,0 +1,16 @@
+{
+  "name": "xiuxian-wiki",
+  "version": "1.0.0",
+  "description": "修仙设定Wiki - 完整的修仙世界设定知识库",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "keywords": ["修仙", "xiuxian", "wiki", "设定"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0"
+  }
+}
