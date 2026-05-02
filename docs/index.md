@@ -4,7 +4,7 @@ layout: home
 hero:
   name: 修仙设定Wiki
   text: 完整的修仙世界设定知识库
-  tagline: 为修仙小说创作提供全面的参考资料
+  tagline: 九界架构 · 九阶境界 · 三千大道
   actions:
     - theme: brand
       text: 开始探索
