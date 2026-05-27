@@ -11,8 +11,10 @@ function chineseTokenizer(text: string): string[] {
 const vitePressConfig = defineConfig({
   title: '修仙设定Wiki',
   description: '完整的修仙世界设定知识库',
-  lang: 'zh-CN',
-  
+  locales: {
+    root: { label: '简体中文', lang: 'zh-CN' },
+  },
+
   // 构建优化
   cleanUrls: true,
   ignoreDeadLinks: false, // 用户明确要求false
@@ -27,6 +29,7 @@ const vitePressConfig = defineConfig({
     ['meta', { name: 'theme-color', content: '#6366f1' }],
     ['meta', { name: 'og:type', content: 'website' }],
     ['meta', { name: 'og:locale', content: 'zh-CN' }],
+    ['meta', { name: 'og:site_name', content: '修仙设定Wiki' }],
   ],
 
   themeConfig: {
@@ -108,10 +111,10 @@ const vitePressConfig = defineConfig({
 
     returnToTopLabel: '返回顶部',
 
-    editLink: {
-      pattern: 'https://github.com/xiuxian-wiki/xiuxian/edit/main/docs/:path',
-      text: '在 GitHub 上编辑此页'
-    },
+  // editLink: {
+  //   pattern: 'https://github.com/xiuxian-wiki/xiuxian/edit/main/docs/:path',
+  //   text: '在 GitHub 上编辑此页'
+  // },
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/xiuxian-wiki/xiuxian' }
@@ -119,13 +122,13 @@ const vitePressConfig = defineConfig({
 
     footer: {
       message: '修仙设定Wiki - 完整的修仙世界设定知识库',
-      copyright: '© 2024 修仙设定Wiki'
+      copyright: '© 2024-2026 修仙设定Wiki'
     },
   },
 
   vite: {
     build: {
-      chunkSizeWarningLimit: 1000,
+      chunkSizeWarningLimit: 2000,
     }
   }
 })
@@ -138,6 +141,7 @@ export default withSidebar(vitePressConfig, {
   collapsed: true,
   collapseDepth: 2,
   excludeFilesByFrontmatterFieldName: 'exclude',
+  excludeByGlobPattern: ['**/总览.md'],
   rootGroupText: '修仙设定Wiki',
   hyphenToSpace: true,
   underscoreToSpace: true,
