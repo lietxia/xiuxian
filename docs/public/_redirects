@@ -1,3 +1,0 @@
-# Clean URLs support for Cloudflare Pages
-# Maps /path to /path.html when no exact match exists
-/* /index.html 200

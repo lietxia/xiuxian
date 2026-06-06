@@ -1,17 +1,6 @@
-# Dependencies
-node_modules/
-
-# VitePress
-docs/.vitepress/dist/
-docs/.vitepress/cache/
-docs/.vitepress/.temp/
-
-# Ghost directories
-docs/docs/
-
 # IDE
-.vscode/
 .idea/
+.vscode/
 *.swp
 *.swo
 *~
@@ -20,29 +9,7 @@ docs/docs/
 .DS_Store
 Thumbs.db
 
-# Logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-
-# Build
-dist/
-build/
-
 # Environment
 .env
 .env.local
-.env.*.local
 
-# Python cache
-__pycache__/
-*.pyc
-*.pyo
-
-# Temporary scripts
-/tmp/
-
-# Package lock (optional - keep if team uses consistent lockfiles)
-# package-lock.json
