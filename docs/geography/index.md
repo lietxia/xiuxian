@@ -10,32 +10,32 @@ description: 九界地理、秘境绝地、灵脉分布、传送阵网络
 ## 📖 内容导航
 
 ### 九界地理
-- [凡间界](nine-realms/mortal-realm/凡间界总览) - 凡人世界、凡间势力
-- [修真界](nine-realms/cultivation-realm/修真界总览) - 修士世界、修真势力
-- [仙界](nine-realms/immortal-realm/仙界总览) - 仙人世界、仙界势力
-- [魔界](nine-realms/magic-realm/魔界总览) - 魔修世界、魔界势力
-- [佛界](nine-realms/buddha-realm/佛界总览) - 佛修世界、佛界势力
-- [冥界](nine-realms/nether-realm/冥界总览) - 轮回世界、冥界势力
-- [神界](nine-realms/divine-realm/神界总览) - 天道世界、神界势力
-- [妖界](nine-realms/demon-realm/妖界总览) - 妖族世界、妖界势力
-- [天外天](nine-realms/outer-heavens/外天总览) - 混沌世界、天外天势力
+- [凡间界](nine-realms/mortal-realm/凡间界总览.md) - 凡人世界、凡间势力
+- [修真界](nine-realms/cultivation-realm/修真界总览.md) - 修士世界、修真势力
+- [仙界](nine-realms/immortal-realm/仙界总览.md) - 仙人世界、仙界势力
+- [魔界](nine-realms/magic-realm/魔界总览.md) - 魔修世界、魔界势力
+- [佛界](nine-realms/buddha-realm/佛界总览.md) - 佛修世界、佛界势力
+- [冥界](nine-realms/nether-realm/冥界总览.md) - 轮回世界、冥界势力
+- [神界](nine-realms/divine-realm/神界总览.md) - 天道世界、神界势力
+- [妖界](nine-realms/demon-realm/妖界总览.md) - 妖族世界、妖界势力
+- [天外天](nine-realms/outer-heavens/外天总览.md) - 混沌世界、天外天势力
 
 ### 秘境
-- [秘境图鉴大全](secret-realms/秘境图鉴大全) - 秘境分类、秘境特点
-- [各界秘境大全](各界秘境大全) - 各界秘境汇总、秘境分布
+- [秘境图鉴大全](secret-realms/秘境图鉴大全.md) - 秘境分类、秘境特点
+- [各界秘境大全](各界秘境大全.md) - 各界秘境汇总、秘境分布
 
 ### 绝地禁地
-- [修仙界十大禁地](修仙界十大禁地) - 著名禁地详解
-- [各界绝地大全](各界绝地大全) - 各界绝地汇总、绝地分布
+- [修仙界十大禁地](修仙界十大禁地.md) - 著名禁地详解
+- [各界绝地大全](各界绝地大全.md) - 各界绝地汇总、绝地分布
 
 ### 灵脉
-- [灵脉体系](/worldbuilding/灵脉体系) - 灵脉分类、灵脉特点
+- [灵脉体系](../worldbuilding/灵脉体系.md) - 灵脉分类、灵脉特点
 
 ### 其他
-- [界面总览](界面总览) - 九界关系与界面通道
-- [传送阵网络](传送阵网络) - 传送阵分布与网络
-- [修仙界地图](修仙界地图) - 修仙界地图概览
-- [空间裂缝图鉴](空间裂缝图鉴) - 空间裂缝分布与危险
+- [界面总览](界面总览.md) - 九界关系与界面通道
+- [传送阵网络](传送阵网络.md) - 传送阵分布与网络
+- [修仙界地图](修仙界地图.md) - 修仙界地图概览
+- [空间裂缝图鉴](空间裂缝图鉴.md) - 空间裂缝分布与危险
 
 ---
 
@@ -166,4 +166,4 @@ description: 九界地理、秘境绝地、灵脉分布、传送阵网络
 
 ---
 
-*返回[项目主页](/)*
+*返回[项目主页](index.md)*
