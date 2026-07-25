@@ -37,6 +37,7 @@ const vitePressConfig = defineConfig({
     
     nav: [
       { text: '首页', link: '/' },
+      { text: '📚 总目录', link: '/总目录' },
       { text: '世界观', link: '/worldbuilding/' },
       { text: '修炼体系', link: '/cultivation/' },
       { text: '功法法术', link: '/techniques/' },
