@@ -67,7 +67,7 @@ description: 宗门制度、正魔佛妖势力、商会家族、社会结构、�
 - [商会组织](guilds/商会大全) - 各地商会汇总
 - [散修联盟](neutral/散修联盟) - 散修组织、散修互助
 - [佣兵公会](neutral/佣兵公会) - 佣兵组织、任务系统
-- [万宝阁](guilds/万宝阁) - 万宝阁商会详解
+- [万宝阁](../geography/nine-realms/cultivation-realm/factions/万宝阁) - 万宝阁商会详解
 - [天机阁](guilds/天机阁) - 天机阁情报组织
 
 ### 家族势力
